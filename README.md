@@ -1,5 +1,5 @@
 # Data4City_SenseBoxRadar
-Eine App, um die Daten von Senseboxen in der Nähe zu analysieren
+Eine Mobile-App, um die Daten von Senseboxen in der Nähe zu analysieren
 
 * Auf einem Smartphone mit GPS wird der aktuelle Standort identifiziert, anhand der Einstellung (1-250 km) die umliegenden Senseboxen erkannt und in einer Liste sortiert nach Nähe angezeigt.
 * Wenn man den Schalter "GPS" aus schaltet, können die GPS-Koordinaten auch manuell in die Felder eingetragen werden.
